@@ -1,0 +1,2 @@
+2019-09-25 13:46:37,624 [main] [INFO ] com.vishwanath.Main - bank application
+2019-09-25 13:46:45,677 [main] [INFO ] com.vishwanath.Main - bank application
